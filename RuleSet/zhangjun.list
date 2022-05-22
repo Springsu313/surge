@@ -1,4 +1,8 @@
-
+# /*  APP开屏广告拦截，APP启动广告拦截！
+#  a28413761  收集整理
+# 更新时间  2022.05.20
+# */  
+#改写自https://raw.githubusercontent.com/28413761/QX/main/fenliu.list
 # > 光大银行阳光惠生活
 DOMAIN-KEYWORD, talk.bz.getui.com
 # > 民生银行
@@ -100,7 +104,7 @@ DOMAIN-KEYWORD, mpos-pic.helipay.com
 DOMAIN-KEYWORD, p3-pack.byteimg.com
 DOMAIN-KEYWORD, p6-pack.byteimg.com
 # > 搜狗
-DOMAIN, indivi-cdn.shouji.sogou.com/wapdl/hole
+DOMAIN, indivi-cdn.shouji.sogou.com
 DOMAIN-SUFFIX,epro.sogou.com
 DOMAIN-SUFFIX,golden1.sogou.com
 DOMAIN-SUFFIX,inte.sogou.com
@@ -1005,7 +1009,7 @@ DOMAIN,mqtt.zhihu.com
 DOMAIN,sugar.zhihu.com
 DOMAIN,118.89.204.198
 IP-CIDR,118.89.204.198/32
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 # > 中关村
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
