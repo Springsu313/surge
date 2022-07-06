@@ -1,6 +1,6 @@
-HOST-SUFFIX,pluto.tv,美国节点
-HOST,mobile-data.onetrust.io,美国节点
-HOST-SUFFIX,privacyportal.onetrust.com,美国节点
-HOST,service-channels.clusters.pluto.tv,美国节点
-HOST,service-vod.clusters.pluto.tv,美国节点
-HOST,service-recommender.clusters.pluto.tv,美国节点
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN,mobile-data.onetrust.io
+DOMAIN-SUFFIX,privacyportal.onetrust.com
+DOMAIN,service-channels.clusters.pluto.tv
+DOMAIN,service-vod.clusters.pluto.tv
+DOMAIN,service-recommender.clusters.pluto.tv
